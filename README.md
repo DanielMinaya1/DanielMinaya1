@@ -1,6 +1,7 @@
 <h1 align="center">Hi there 👋</h1>
 <img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
-<h3 align="center">I'm Daniel, a Civil Engineering Mathematics student 🎓 from <a href="https://ingenieria.uchile.cl/english/departments/mathematical-engineering">Faculty of Physical and Mathematical Sciences</a> and prospective graduate student of the <a href=https://mds.uchile.cl/>Master's in Data Science</a> of <a href="https://uchile.cl/english">University of Chile</a>.
+
+I'm Daniel, a Civil Engineering Mathematics student 🎓 from <a href="https://ingenieria.uchile.cl/english/departments/mathematical-engineering">Faculty of Physical and Mathematical Sciences</a> and prospective graduate student of the <a href=https://mds.uchile.cl/>Master's in Data Science</a> of <a href="https://uchile.cl/english">University of Chile</a>.
 
 <h3> 👨‍💻 Programming Languages </h3>
 
@@ -13,6 +14,7 @@
 
 <h3> 👨‍💻 Data Science and Machine Learning Frameworks</h3>
 
+<p align=center>
 <img src="https://img.shields.io/badge/Numpy-777BB4?style=flat-square&logo=numpy&logoColor=white"/>
 <img src="https://img.shields.io/badge/Pandas-2C2D72?style=flat-square&logo=pandas&logoColor=white"/>
 <img src="https://img.shields.io/badge/scikit_learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white"/>
@@ -22,4 +24,5 @@
 
 <h3> 👨‍💻 Cloud Computing</h3>
 
+<p align=center>
 <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=flat-square&logo=google-cloud&logoColor=white"/>
