@@ -111,6 +111,7 @@ Neural network training formulated as optimal control problems, and image segmen
 <div align="center">
 
 [![Email](https://img.shields.io/badge/Email-dminaya@dim.uchile.cl-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dminaya@dim.uchile.cl)
+
 [![GitHub](https://img.shields.io/badge/GitHub-DanielMinaya1-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/DanielMinaya1)
 
 </div>
