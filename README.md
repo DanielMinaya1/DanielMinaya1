@@ -1,7 +1,5 @@
 # Hi there, I'm Daniel 👋
 
-<img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
-
 ## 🎓 About Me
 
 **Civil Mathematical Engineer** and **Master's in Data Science** graduate from [University of Chile](https://uchile.cl/english).
@@ -11,6 +9,9 @@ Currently working as a **Data Analyst at In-Data**, specializing in deep learnin
 I focus on building scalable data solutions, developing ML/DL models, and creating automated data pipelines that drive business decisions.
 
 📍 Based in Santiago, Chile
+<div align="center">
+  <img alt="Coding" width="100" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
+</div>
 
 ---
 
