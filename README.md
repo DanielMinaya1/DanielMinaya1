@@ -10,7 +10,7 @@ I focus on building scalable data solutions, developing ML/DL models, and creati
 
 📍 Based in Santiago, Chile
 <div align="center">
-  <img alt="Coding" width="100" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
+  <img alt="Coding" width="100" src="https://raw.githubusercontent.com/DanielMinaya1/DanielMinaya1/main/static/gifs/EscuelaDevRock.gif" />
 </div>
 
 ---
@@ -121,6 +121,6 @@ Neural network training formulated as optimal control problems, and image segmen
 </div>
 
 <div align="center">
-  <img alt="Anime" height="300" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZzh6endoeGJ5dWhjMndjMGZicWdmN2tpOHo2ZWt6dGtncnh1Y2d6OCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/oX7a6TfnVqTRZS7czp/giphy.gif" />
-  <img alt="K-pop" height="300" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExeWJ0MDMwajBvcWkxdGVxbDI4cm5pZDA2OGswcTZ3Y3c2c2w2ZTd4ZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/lRcFKYI0bIiM6EZl4S/giphy.gif" />
+  <img alt="Anime" height="300" src="https://raw.githubusercontent.com/DanielMinaya1/DanielMinaya1/main/static/gifs/winter.gif" />
+  <img alt="K-pop" height="300" src="https://raw.githubusercontent.com/DanielMinaya1/DanielMinaya1/main/static/gifs/kita.gif" />
 </div>
