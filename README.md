@@ -4,7 +4,7 @@
 
 **Civil Mathematical Engineer** and **Master's in Data Science** graduate from [University of Chile](https://uchile.cl/english).
 
-Currently working as a **Data Analyst at In-Data**, specializing in deep learning applications for satellite imagery analysis and construction monitoring.
+Currently working as a **Data Engineer at In-Data**, specializing in deep learning applications for satellite imagery analysis and construction monitoring.
 
 I focus on building scalable data solutions, developing ML/DL models, and creating automated data pipelines that drive business decisions.
 
@@ -120,7 +120,7 @@ Neural network training formulated as optimal control problems, and image segmen
 
 </div>
 
-<div align="center">
+<!-- <div align="center"> -->
   <img alt="Anime" height="300" src="https://raw.githubusercontent.com/DanielMinaya1/DanielMinaya1/main/static/gifs/winter.gif" />
   <img alt="K-pop" height="300" src="https://raw.githubusercontent.com/DanielMinaya1/DanielMinaya1/main/static/gifs/kita.gif" />
 </div>
